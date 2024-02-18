@@ -9,5 +9,6 @@ I'm Britny Blumenfeld, a passionate bioinformatician and Python developer. Welco
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Britny%20Blumenfeld-blue)](https://www.linkedin.com/in/britny-blumenfeld/)
 [![GitHub Portfolio](https://img.shields.io/badge/GitHub%20Portfolio-BritnyBlu-green)](https://britnyblu.github.io/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-blue?logo=researchgate)](https://www.researchgate.net/scientific-contributions/Britny-Blumenfeld-2120881319)
 
 
