@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**britnyblu/britnyblu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Britny Blumenfeld, a passionate bioinformatician and Python developer. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+### About Me
+- 🌱 I'm currently exploring the fascinating world of bioinformatics and genomics.
+- 💻 I'm fluent in Python and AWS, and I enjoy dabbling in frontend development in my free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Britny%20Blumenfeld-blue)](https://www.linkedin.com/in/britny-blumenfeld/)
+[![GitHub Portfolio](https://img.shields.io/badge/GitHub%20Portfolio-BritnyBlu-green)](https://britnyblu.github.io/)
+
+
